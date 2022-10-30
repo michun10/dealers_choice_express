@@ -16,12 +16,17 @@ img{
     padding-right: 60px;
 }
 
-ul{
+.player-details{
     color: white; 
     font-family: Helvetica;
     font-size: 3rem;
     margin: 30px;
-    position: absolute;
+}
+
+button{
+    height: 60px; 
+    width: 120px;
+    font-size: 2rem;
 }
 
 a{

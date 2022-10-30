@@ -19,7 +19,7 @@ const playerList = (players) => {
   <h1> New Zealand Black Ferns </h1>
   </header>
   <body>
-  <div class = "container">
+  <div class = "player-details">
   <ul>
   ${renderPlayers()}
   </ul>
